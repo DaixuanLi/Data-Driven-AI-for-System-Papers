@@ -13,7 +13,7 @@ Papers for Data Driven AI
 
 [VLDB’24] An Efficient Transfer Learning Based Configuration Adviser for Database Tuning
 
-### Dealing with Limitations of System Design
+### Dealing with Limitations of Data-Driven Approach
 
 [SIGMOD’24] Machine Unlearning in Learned Databases: An Experimental Analysis
 
